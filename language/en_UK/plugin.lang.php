@@ -80,4 +80,5 @@ $lang['PP_Err_Userlist_Settings'] = 'This tab is available only if password rene
 $lang['PP_No_Userlist'] = 'No users available to display';
 $lang['PP_Select page number'] = 'Select page number to display';
 $lang['PP_Select page size'] = 'Select page size';
+$lang['FCK Editor On/Off'] = 'FCK Editor On/Off';
 ?>
