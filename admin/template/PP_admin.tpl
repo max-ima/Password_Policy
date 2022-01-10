@@ -102,7 +102,7 @@ jQuery().ready(function()
         <textarea class="pp_textfields" name="PP_CustomLockMsg" id="PP_CustomLockMsg" rows="10" {$TAG_INPUT_ENABLED}>{$PP_USRLOCKEDTXT}</textarea>
           {if 'FCK_PATH'|@defined}
             <div style="text-align:right;">
-              <a href="#" onClick="toogleEditor('PP_CustomLockMsg'); return false;">FCK Editor On/Off</a>
+              <a href="#" onClick="toogleEditor('PP_CustomLockMsg'); return false;">{'FCK Editor On/Off'|@translate}</a>
             </div>
           {/if}
       </li>
